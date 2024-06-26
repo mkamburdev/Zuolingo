@@ -1,0 +1,67 @@
+[
+	{
+		"id": 1,
+		"name": "Falstaff Plushie",
+		"price": 34.95,
+		"image": "https://store.duolingo.com/cdn/shop/files/20240205_0008v3.png",
+		"image2": "https://store.duolingo.com/cdn/shop/files/20240205_0007v3.png",
+		"image3": "https://store.duolingo.com/cdn/shop/files/20240205_0009v3.png",
+		"details": "This isn’t your typical teddy bear. Meet Falstaff, the moody curmudgeon of Duolingo. With his grumpy gaze and light blue scarf, Falstaff is instantly lovable despite his grouchy demeanor. More fond of naps and vinyl jazz LPs than boring conversations, he’s perfect for cuddling up and forgetting the rest of the world exists. If you have a soft spot for lazy afternoons and avoiding obligations, this plushie is bound to be your new best friend.",
+		"slug": "falstaff-plushie",
+		"category": "plushie"
+	},
+	{
+		"id": 2,
+		"name": "Duo Plushie",
+		"price": 29.95,
+		"image": "https://store.duolingo.com/cdn/shop/files/Duolingo_05_4053-2.png",
+		"image2": "https://store.duolingo.com/cdn/shop/files/Duolingo_05_4046-2.png",
+		"image3": "https://store.duolingo.com/cdn/shop/files/Duolingo_15_4326-2.png",
+		"details": "Never forget a lesson again with the adorable Duo Plushie. It’s the perfect gentle reminder to do your daily Duolingo. Give one as a gift or get one for yourself to make learning even more fun!",
+		"slug": "duo-plushie",
+		"category": "plushie"
+	},
+	{
+		"id": 3,
+		"name": "Duo The Owl Mask",
+		"price": 42.95,
+		"image": "https://store.duolingo.com/cdn/shop/products/DQ3-06_4959.png",
+		"image2": "https://store.duolingo.com/cdn/shop/products/DQ3-06_4687.png",
+		"details": "There’s nothing scarier than seeing Duo the Owl when you haven’t done your lessons. Because if you miss a lesson, something or someone might go missing too…So pick up this Duo the Owl Mask and spook your friends to remind them to do their Duolingo. Whether for Halloween or just a fun afternoon, this cute yet terrifying costume is sure to get everyone talking.",
+		"slug": "duo-the-owl-mask",
+		"category": "apparel"
+	},
+	{
+		"id": 4,
+		"name": "Lily Vinyl Figure",
+		"price": 42.95,
+		"image": "https://store.duolingo.com/cdn/shop/files/20231113_Duolingo-Q4_0006.png",
+		"image2": "https://store.duolingo.com/cdn/shop/files/20231113_Duolingo-Q4_0007.png",
+		"image3": "https://store.duolingo.com/cdn/shop/files/20231113_Duolingo-Q4_0008.png",
+		"details": "Embrace your inner emo attitude with the Lily Vinyl Figure. Stand her on your desk for a daily dose of deadpan humor and introverted detachment… or whatever. Lily enjoys obscure bands, vintage horror movies, and avoiding people — just like you. It’s an existential collectible for those who embrace the “why-am-I-here” lifestyle. No need to thank us. Lily wouldn’t either. Warning: Enthusiasm not included.",
+		"slug": "lily-vinyl-figure",
+		"category": "accessories"
+	},
+	{
+		"id": 5,
+		"name": "Lily Plushie",
+		"price": 31.95,
+		"image": "https://store.duolingo.com/cdn/shop/files/Duolingo_04_4017-2.png",
+		"image2": "https://store.duolingo.com/cdn/shop/files/Duolingo_04_3995-2.png",
+		"image3": "https://store.duolingo.com/cdn/shop/files/Duolingo_14_4316-2.png",
+		"details": "Meet the Lily Plushie, your new sarcastic companion who is annoyed by life and ready to avoid people with you. Cuddle up and share your love for obscure bands and old dogs together. Or don’t, she doesn’t really care either way. Hurry up and get yours, before it becomes too mainstream.",
+		"slug": "lily-plushie",
+		"category": "plushie"
+	},
+	{
+		"id": 6,
+		"name": "Remind Me T-Shirt",
+		"price": 35.95,
+		"image": "https://store.duolingo.com/cdn/shop/files/Duolingo_02_3957-2.png",
+		"image2": "https://store.duolingo.com/cdn/shop/files/Duolingo_02_3973-2.png",
+		"image3": "https://store.duolingo.com/cdn/shop/files/Duolingo_21_4482-2.png",
+		"details": "Become a walking lesson reminder with the Remind Me T-Shirt. Featuring Duo the Owl on the back and eye-catching puff print details, this bold black tee transforms you into a living, breathing Duolingo notification. Keep your streak going strong and nudge those around you to keep theirs too. You’ll make Duo proud every time you wear it.",
+		"slug": "remind-me-t-shirt",
+		"category": "apparel"
+	}
+]
