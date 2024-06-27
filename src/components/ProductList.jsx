@@ -1,3 +1,7 @@
+// Dieser Code rendert eine Liste von Produkten und bietet die Möglichkeit, Produkte 
+// in den Warenkorb zu legen. Die Produkte werden in einem flexiblen Raster angezeigt, 
+// das sich je nach Bildschirmgröße anpasst.
+
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Product from './Product'
