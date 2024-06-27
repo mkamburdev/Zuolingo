@@ -2,7 +2,7 @@
 
 <hr />
 
-<div>
+<div id="readme">
 <p align="center">
     <a href="https://zuolingo.vercel.app/">View Demo</a>
     ·
@@ -35,6 +35,8 @@ This project is an e-commerce platform with a simple interface developed using m
 
 ![Duolingo Store!](/src/assets/images/screenshot.png 'Duolingo Store')
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 ## Goals and Features
 
 - **Prioritize User Experience**: Create a platform where users can easily navigate, find products, and make purchases effortlessly.
@@ -44,12 +46,16 @@ This project is an e-commerce platform with a simple interface developed using m
 - **Product Listing**: Showcase products in a storefront, highlighting featured or discounted items.
 - **Product Detail Page**: Display detailed information about a product including description, price, and photos.
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 ## Development Plan
 
 - **Category and Filtering**: Options to filter products by category.
 - **Search**: A search feature allowing users to find products by name or category.
 - **User Session**: Ability for users to create accounts, log in, and manage sessions.
 - **Order Management**: A section where users can view order history and track the status of current orders.
+  
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 ## Technologies
 
@@ -62,6 +68,8 @@ This project is an e-commerce platform with a simple interface developed using m
 - Git
 - Vercel
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 ## Fonts & Photos
 
 - Nunito
@@ -69,11 +77,15 @@ This project is an e-commerce platform with a simple interface developed using m
 - Fontawesome Icons
 - Duolingo Product Photos
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 ## What I've Learned
 
 - **React and React Router**: I have gained proficiency in both basic and advanced features of these libraries, enabling me to develop Single Page Applications (SPAs) effectively.
 - **State Management**: I learned how to effectively manage application state and dynamically respond to user interactions.
 - **Responsive Design Principles**: By using Tailwind CSS and modern layout techniques, I have improved my ability to design interfaces that work seamlessly across all devices, meeting required designs.
+
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 ## Getting Started
 
@@ -103,10 +115,17 @@ Launch the application:
 npm run dev
 ```
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 ## Demo
 
 [https://zuolingo.vercel.app](https://zuolingo.vercel.app/ 'Zuolingo Project | mkamburdev')
 
+<p align="right">(<a href="#readme">back to top</a>)</p>
+
 ## Contact
 
 Muhammed Kambur - [@mkambur](https://linkedin.com/in/mkambur) - info@mkambur.com
+
+
+<p align="right">(<a href="#readme">back to top</a>)</p>
