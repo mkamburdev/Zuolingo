@@ -33,7 +33,22 @@ This project is an e-commerce platform with a simple interface developed using m
 
 ## Screenshots
 
+<div align="center">
+
 ![Duolingo Store!](/src/assets/images/screenshot.png 'Duolingo Store')
+</div>
+
+<div align="center">
+<img src="./src/assets/images/cart.gif" alt="Logo" width="600" />
+</div>
+<br />
+<div align="center">
+<img src="./src/assets/images/gallery.gif" alt="Logo" width="600" />
+</div>
+<br />
+<div align="center">
+<img src="./src/assets/images/mobile.gif" alt="Logo" height="500" />
+</div>
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 

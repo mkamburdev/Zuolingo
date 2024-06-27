@@ -23,6 +23,7 @@
     <li><a href="#technologien">Technologien</a></li>
     <li><a href="#schriftarten--fotos">Schriftarten & Fotos</a></li>
     <li><a href="#was-ich-gelernt-habe">Was ich gelernt habe</a></li>
+    <li><a href="#herausforderungen">Herausforderungen</a></li>
     <li><a href="#erste-schritte">Erste Schritte</a></li>
     <li><a href="#demo">Demo</a></li>
 		<li><a href="#kontakt">Kontakt</a></li>
@@ -33,7 +34,22 @@ Dieses Projekt ist eine E-Commerce-Plattform mit einer einfachen Benutzeroberfl�
 
 ## Screenshots
 
+<div align="center">
+
 ![Duolingo Store!](/src/assets/images/screenshot.png 'Duolingo Store')
+</div>
+
+<div align="center">
+<img src="./src/assets/images/cart.gif" alt="Logo" width="600" />
+</div>
+<br />
+<div align="center">
+<img src="./src/assets/images/gallery.gif" alt="Logo" width="600" />
+</div>
+<br />
+<div align="center">
+<img src="./src/assets/images/mobile.gif" alt="Logo" height="500" />
+</div>
 
 <p align="right">(<a href="#readme">zurück zum Anfang</a>)</p>
 
@@ -84,6 +100,9 @@ Dieses Projekt ist eine E-Commerce-Plattform mit einer einfachen Benutzeroberfl�
 - **React und React Router**: Ich habe sowohl grundlegende als auch fortgeschrittene Funktionen dieser Bibliotheken beherrscht, wodurch ich in der Lage bin, Single Page Applications (SPAs) effektiv zu entwickeln.
 - **Zustandsverwaltung**: Ich habe gelernt, wie man den Anwendungszustand effektiv verwaltet und dynamisch auf Benutzerinteraktionen reagiert.
 - **Prinzipien des responsiven Designs**: Durch die Verwendung von Tailwind CSS und modernen Layout-Techniken habe ich meine Fähigkeit verbessert, Benutzeroberflächen zu entwerfen, die nahtlos auf allen Geräten funktionieren und den erforderlichen Designs entsprechen.
+
+## Herausforderungen
+- Das Schwierigste bei der Entwicklung des Projekts war für mich, die Produkte aktuell in den Warenkorb zu legen und die Anzahl der Produkte im Warenkorb zu aktualisieren. Ich kann sagen, dass ich die meiste Zeit dafür aufgewendet habe.
 
 <p align="right">(<a href="#readme">zurück zum Anfang</a>)</p>
 
