@@ -1,6 +1,8 @@
 // In dieser Komponente habe ich eine Sidebar für einen Warenkorb erstellt. 
+
 // Die Sidebar zeigt die im Warenkorb befindlichen Artikel an und ermöglicht es dem Benutzer, 
 // die Menge der einzelnen Artikel zu ändern oder Artikel aus dem Warenkorb zu entfernen. 
+
 // Außerdem wird der Gesamtpreis berechnet und angezeigt. 
 // Der Benutzer kann die Sidebar durch einen Button schließen und hat die Möglichkeit, zur Kasse zu gehen oder den gesamten Warenkorb anzuzeigen.
 

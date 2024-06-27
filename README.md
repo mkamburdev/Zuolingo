@@ -1,4 +1,6 @@
-![Duolingo Store!](/src/assets/images/logo.png 'Duolingo Store')
+<div align="center" width="100px">
+<img src="./src/assets/images/logo.png" alt="Logo" width="400" />
+</div>
 
 <hr />
 

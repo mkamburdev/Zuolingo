@@ -1,8 +1,11 @@
 // In diesem Projekt habe ich ein Einkaufswagensystem mit React und React Router erstellt.
+
 // Ich verwalte den Zustand der Warenkorbelemente und der Sidebar-Verfügbarkeit mit useState-Hooks.
+
 // Hauptkomponenten: Navbar, Sidebar, Footer, Home, ProductDetail.
 // Navbar zeigt die Artikelanzahl im Warenkorb und öffnet die Sidebar.
 // Sidebar zeigt die Warenkorbelemente und ermöglicht Mengenänderungen oder das Entfernen von Artikeln.
+
 // Produkte können auf der Hauptseite dem Warenkorb hinzugefügt werden, wodurch die Sidebar automatisch geöffnet wird.
 
 import React, { useState } from 'react'
