@@ -18,7 +18,7 @@ const Footer = () => {
 							<FaTwitter />
 							<FaTiktok />
 						</div>
-						<p className="text-sm">© 2024 Zuolingo</p>
+						<p className="text-sm">© 2024 Zuolingo | <a href="https://github.com/mkamburdev" target="blank">mkamburdev</a></p>
 					</div>
 					<div className="footer-right"></div>
 				</div>
