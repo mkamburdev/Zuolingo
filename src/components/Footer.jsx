@@ -2,12 +2,11 @@ import React from 'react'
 import { FaFacebook, FaTiktok, FaTwitter } from 'react-icons/fa'
 import { RiInstagramFill } from 'react-icons/ri'
 import footer_duo from '../assets/images/footer_duo.avif'
-import wave from '../assets/images/wave.svg'
 
 const Footer = () => {
 	return (
 		<div>
-			<div className="h-10" style={{ backgroundImage: `url(${wave})` }}></div>
+			<div className="h-10 bg-[url('../src/assets/images/wave.svg')]"></div>
 			<footer className="w-full bg-[#58cc02] text-white h-36 ">
 				<div className="container w-8/12 h-full flex justify-center mx-auto text-center">
 					<div className="footer-left flex flex-col gap-2 justify-center items-center">
