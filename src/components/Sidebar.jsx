@@ -1,18 +1,8 @@
-// In dieser Komponente habe ich eine Sidebar für einen Warenkorb erstellt. 
-
-// Die Sidebar zeigt die im Warenkorb befindlichen Artikel an und ermöglicht es dem Benutzer, 
-// die Menge der einzelnen Artikel zu ändern oder Artikel aus dem Warenkorb zu entfernen. 
-
-// Außerdem wird der Gesamtpreis berechnet und angezeigt. 
-// Der Benutzer kann die Sidebar durch einen Button schließen und hat die Möglichkeit, zur Kasse zu gehen oder den gesamten Warenkorb anzuzeigen.
-
-
 import React from 'react'
 import { FaMinus, FaPlus } from 'react-icons/fa'
 import { HiOutlineXMark } from 'react-icons/hi2'
 import { RiDeleteBin6Line } from 'react-icons/ri'
 
-// Sidebar-Komponente, die die Warenkorbelemente anzeigt
 const Sidebar = ({
 	cartItems,
 	isOpen,
@@ -20,7 +10,6 @@ const Sidebar = ({
 	removeFromCart,
 	updateQuantity
 }) => {
-	// Berechnen des Gesamtpreises der Warenkorbelemente
 	const totalPrice = cartItems.reduce(
 		(total, item) => total + item.price * item.quantity,
 		0
@@ -37,7 +26,6 @@ const Sidebar = ({
 					<h2 className="text-[2em] font-black text-lime-500 mb-4">
 						your cart
 					</h2>
-					{/* Wenn die Sidebar geöffnet ist, zeige den Schließen-Button an */}
 					<button onClick={toggleSidebar} className="text-lime-600 mb-4">
 						<HiOutlineXMark className="text-[1.8em]" />
 					</button>

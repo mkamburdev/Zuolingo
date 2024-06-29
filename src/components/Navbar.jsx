@@ -3,9 +3,6 @@ import { FiMenu, FiSearch, FiShoppingCart } from 'react-icons/fi'
 import { Link } from 'react-router-dom'
 import logo from '../assets/images/logo.png'
 
-// Diese Komponente rendert die Navigationsleiste (Navbar) der Anwendung.
-// Sie akzeptiert zwei Props: cartCount (Anzahl der Artikel im Warenkorb) und setSidebarOpen (Funktion zum Öffnen der Sidebar).
-
 const Navbar = ({ cartCount, setSidebarOpen }) => {
 	return (
 		<nav className="sticky top-0 z-10 w-full bg-white">

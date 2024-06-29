@@ -1,16 +1,12 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 
-// Diese Komponente rendert ein einzelnes Produkt.
-// Sie akzeptiert zwei Props: product (ein Objekt mit Produktinformationen) und addToCart (eine Funktion zum Hinzufügen des Produkts zum Warenkorb).
-
 const Product = ({ product, addToCart }) => {
 	const [added, setAdded] = useState(false)
 
-	// Funktion, die aufgerufen wird, wenn der "Add to Cart" Button geklickt wird.
 	const handleAddToCart = () => {
-		addToCart(product) // Fügt das Produkt zum Warenkorb hinzu
-		setAdded(true) // Setzt den Zustand 'added' auf true, um den Button auf "Added to Cart" zu ändern
+		addToCart(product)
+		setAdded(true)
 	}
 
 	return (

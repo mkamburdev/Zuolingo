@@ -3,14 +3,12 @@ import { FaMinus, FaPlus } from 'react-icons/fa'
 import { Link, useParams } from 'react-router-dom'
 import productsData from '../products.json'
 
-// Diese Komponente rendert die Produkt-Detailseite.
 const ProductDetail = () => {
-	const { id } = useParams() // Die ID des Produkts aus den URL-Parametern abrufen
-	const product = productsData.find(p => p.id === parseInt(id)) // Das Produkt aus den Produktdaten finden
+	const { id } = useParams()
+	const product = productsData.find(p => p.id === parseInt(id))
 
-	const [activeImage, setActiveImage] = useState(product.image) // Aktives Bild des Produkts verwalten
+	const [activeImage, setActiveImage] = useState(product.image)
 
-	// Funktion zum Aktualisieren des aktiven Bildes
 	const updateActiveImage = imageSrc => {
 		setActiveImage(imageSrc)
 	}
