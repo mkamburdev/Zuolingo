@@ -11,7 +11,7 @@ const Header = () => {
 				<img
 					src={banner}
 					alt="Header Background Image"
-					className="w-full object-cover h-[18.5rem] xl:h-[30rem]"
+					className="w-full object-cover h-[18.5rem] xl:h-[31.2rem]"
 				/>
 			</picture>
 		</header>
