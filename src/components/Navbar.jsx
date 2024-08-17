@@ -6,12 +6,17 @@ import logo from '../assets/images/logo.png'
 const Navbar = ({ cartCount, setSidebarOpen }) => {
 	return (
 		<nav className="sticky top-0 z-10 w-full bg-white">
-			<div className="mx-auto w-11/12 py-2 my-2 flex justify-between items-center">
-				<FiMenu className="text-lime-500 text-[1.4em] cursor-pointer hover:text-lime-300 md:hidden" />
+			<section className="py-[0.4rem] bg-[#58cc02]">
+				<p className="text-[0.78rem] text-center text-white font-semibold">
+					Orders over $50 include a FREE mystery Duo pin!
+				</p>
+			</section>
+			<div className="mx-auto max-w-[30rem] py-2 my-2 flex justify-between items-center md:max-w-[40rem] lg:max-w-[58rem] xl:max-w-[77rem]">
+				<FiMenu className="text-lime-500 text-[1.4em] cursor-pointer hover:text-lime-300 lg:hidden" />
 				<Link to="/">
 					<img src={logo} alt="Logo" width="220" />
 				</Link>
-				<div className="space-x-4 font-black text-lime-500 hidden md:block xl:pr-40">
+				<div className="space-x-4 font-black text-lime-500 hidden lg:block xl:pr-40">
 					<Link to="/plushies" className="hover:text-lime-300">
 						PLUSHIES
 					</Link>
